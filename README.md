@@ -7,7 +7,7 @@ and calculate the total bill.
 
 ## Features
 - Display food menu
-- Enter student name and roll number
+- Enter student name
 - Select food item
 - Enter quantity
 - Calculate total bill
@@ -27,4 +27,5 @@ The program was tested by entering different food items and quantities
 and checking whether the total bill was calculated correctly.
 
 ## Screenshots
-Add screenshots of the program running here.
+
+![Program Output](output.png)
