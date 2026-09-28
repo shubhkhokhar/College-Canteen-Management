@@ -7,7 +7,7 @@ and calculate the total bill.
 
 ## Features
 - Display food menu
-- Enter student name
+- Enter student name and roll number
 - Select food item
 - Enter quantity
 - Calculate total bill
