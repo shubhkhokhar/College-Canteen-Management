@@ -1,20 +1,28 @@
 # Project Statement
 
 ## Problem Statement
-Managing food orders and calculating bills manually in a college
-canteen can take time. This project provides a simple Python-based
-system to calculate the bill for a selected food item.
 
-## Scope
-The project covers menu display, student details, food selection,
-quantity entry and bill calculation.
+In a college canteen, students need to select food items and
+calculate the total amount of their orders. Manual calculation
+can take extra time. This project provides a simple Python-based
+system to make the food selection and bill calculation process
+easier.
+
+## Scope of the Project
+
+The project covers student details, food menu display, food item
+selection, quantity input, and total bill calculation.
 
 ## Target Users
-College students and canteen staff.
+
+- College students
+- College canteen staff
 
 ## High-Level Features
+
+- Student details input
 - Food menu display
-- Student information
-- Food selection
+- Food item selection
 - Quantity input
-- Bill calculation
+- Automatic bill calculation
+- Final bill display
